@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Learn Python",
+        "completed": true,
+        "created_at": "2026-08-19T11:17:10.624577"
+    },
+    {
+        "id": 2,
+        "title": "Buy groceries",
+        "completed": false,
+        "created_at": "2026-08-19T11:35:46.953689"
+    },
+    {
+        "id": 4,
+        "title": "Buy groceries",
+        "completed": false,
+        "created_at": "2026-08-19T11:37:51.629112"
+    },
+    {
+        "id": 6,
+        "title": "Persistence Test",
+        "completed": false,
+        "created_at": "2026-08-19T22:03:32.384345"
+    },
+    {
+        "id": 7,
+        "title": "Complete internship",
+        "completed": true,
+        "created_at": "2026-08-19T22:04:26.171598"
+    }
+]
