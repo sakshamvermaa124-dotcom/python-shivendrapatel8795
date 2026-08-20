@@ -21,7 +21,7 @@ def fetch_page(url: str, retries: int = 3) -> str | None:
                     f"HTTP {response.status_code}: "
                     f"Retry {attempt}/{retries}"
                 )
-                time.sleep(2)
+                time.sleep(1)
                 continue
 
             response.raise_for_status()
